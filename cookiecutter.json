@@ -1,0 +1,7 @@
+{
+    "project_name": "My Game",
+    "project_module": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "version": "0.1.0",
+    "use_jupyterlab": "n",
+    "add_animation": "n"
+}
